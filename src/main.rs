@@ -1,7 +1,6 @@
 use std::{thread, time::{self, Instant}};
 use chrono::Local;
 
-mod oncalendar_parser;
 mod systemd_analyze;
 
 fn main() {
