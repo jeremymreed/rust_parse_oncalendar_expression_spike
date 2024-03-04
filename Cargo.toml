@@ -1,0 +1,11 @@
+[package]
+name = "rust_parse_oncalendar_expression_spike"
+version = "0.1.0"
+description = "A quick project to examine parsing systemd.time oncalendar strings."
+authors = ["Jeremy M. Reed <reeje76@gmail.com>"]
+publish = false
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
